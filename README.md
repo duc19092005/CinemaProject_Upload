@@ -17,4 +17,10 @@ Các thành viên bao gồm
   </li>
 </ul>
 
+<p> Các Công Nghệ Áp Dụng : Asp.Net Web API (Backend) - TypeScript + ReactJS (Frontend) , EntityFrameWork(ORM) , MSSQL (Database)
+ </p>
+
+ <p> Các tính năng nổi bật : Thanh toán bằng VNPAY , Nối API với Cloudainary để lưu trữ ảnh , Gửi thông tin hóa đơn qua Email , Xác thực OTP
+ </p>
+
 
